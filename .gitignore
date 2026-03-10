@@ -1,0 +1,5 @@
+target/
+.vscode/
+out.txt
+out2.txt
+*.log
